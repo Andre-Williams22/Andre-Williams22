@@ -1,5 +1,4 @@
-### Hi there, 👋 I'm Andre Williams 
-<h1 align="center">Hi there, 👋 I'm Andre Williams</h1>
+<h1 align="center">Andre Williams</h1>
 <p align="center"><i>Data Scientist | Machine Learning Engineer | Software Engineer</i></p>
 <div align="center">
   <a href="https://github.com/elangosundar/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
@@ -35,7 +34,6 @@ Here are some ideas to get you started:
 
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia)
-<br>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=algolia&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
 
