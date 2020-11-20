@@ -30,7 +30,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
 
-📫  Reach Out & Stay Connected:
+## 📫  Reach Out & Stay Connected:
   - [LinkedIn](https://www.linkedin.com/in/andrewilliams22/)
   - [Medium](https://medium.com/@andre_williams)
   - [Portfolio](https://www.makeschool.com/portfolio/andre-williams)
