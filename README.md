@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   - [Portfolio](https://www.makeschool.com/portfolio/andre-williams)
 
 
-![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=tokyonight)
-[![Andre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andre-Williams22)](https://github.com/Andre-Williams22/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=tokyonight&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
+![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=Gradient)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=Gradient&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
 
