@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=tokyonight&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
 
