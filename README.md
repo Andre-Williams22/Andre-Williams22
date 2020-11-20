@@ -13,7 +13,7 @@
 <img src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/carmel.png">      
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&hide=contribs,prs) --> 
 
-About Me:
+# About Me
 - 🔭 I’m currently a cloud engineering intern at Datto
 - 🌱 I’m currently learning data science 
 - ⚡ Fun fact: I love a good movie
