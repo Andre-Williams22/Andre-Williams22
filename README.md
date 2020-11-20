@@ -2,10 +2,10 @@
 
 <!--
 **Andre-Williams22/Andre-Williams22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> 
+
 
 <img src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/carmel.png"> 
-
+-->
 
 
 Here are some ideas to get you started:
@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   - [LinkedIn](https://www.linkedin.com/in/andrewilliams22/)
   - [Medium](https://medium.com/@andre_williams)
   - [Portfolio](https://www.makeschool.com/portfolio/andre-williams)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
