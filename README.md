@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a cloud engineering intern at Datto
 - 🌱 I’m currently learning data science 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- ⚡ Fun fact: I love a good movie
 
-- ⚡ Fun fact: ...
 -->
 # Technical Articles
 - [Decision Trees](https://medium.com/analytics-vidhya/to-tree-or-not-to-tree-that-is-the-decision-90ae1a9114c2)
@@ -37,5 +34,12 @@ Here are some ideas to get you started:
 
 
 
-![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=algolia&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
+![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia)
+<br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=algolia&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
+
+## :man_astronaut: Show your support
+
+Give a ⭐️ if this profile a helped you!
+
 
