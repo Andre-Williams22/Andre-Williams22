@@ -24,6 +24,10 @@ About Me:
 - [Multiple Linear Regression](https://levelup.gitconnected.com/expensive-cheap-housing-prices-predict-prices-boston-housing-dataset-d60987b65c75)
 
 
+## :man_astronaut: My Stats
+
+![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&layout=compact&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
 
 📫  Reach Out & Stay Connected:
   - [LinkedIn](https://www.linkedin.com/in/andrewilliams22/)
@@ -33,7 +37,3 @@ About Me:
 ## :man_astronaut: Show your support
 
 Give a ⭐️ if this profile a helped you!
-
-
-![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&layout=compact&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
