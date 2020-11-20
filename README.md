@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # `Technical Articles` 
-- To Tree or Not to Tree
+- [Decision Trees](https://medium.com/analytics-vidhya/to-tree-or-not-to-tree-that-is-the-decision-90ae1a9114c2)
+- [K-Means Clustering](https://levelup.gitconnected.com/k-means-clustering-analysis-machine-learning-c98ed9f85d8a)
+- [Multiple Linear Regression](https://levelup.gitconnected.com/expensive-cheap-housing-prices-predict-prices-boston-housing-dataset-d60987b65c75)
+
+
+
 
 📫  Feel Free to Reach Out:
   - [LinkedIn](https://www.linkedin.com/in/andrewilliams22/)
@@ -32,6 +37,7 @@ Here are some ideas to get you started:
   - [Portfolio](https://www.makeschool.com/portfolio/andre-williams)
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Andre-Williams22&repo=github-readme-stats)](https://github.com/Andre-Williams22/github-readme-stats)
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia)
 
