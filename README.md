@@ -13,7 +13,7 @@
 <img src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/carmel.png">      
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&hide=contribs,prs) --> 
 
-<p align="center">
+<p align="center", width=300>
 <img alt="" src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/tech.gif"> </img>
 </p> 
 
