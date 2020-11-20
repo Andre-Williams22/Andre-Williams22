@@ -25,13 +25,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # `Technical Articles` 
+- To Tree or Not to Tree
 
 📫  Feel Free to Reach Out:
   - [LinkedIn](https://www.linkedin.com/in/andrewilliams22/)
   - [Medium](https://medium.com/@andre_williams)
   - [Portfolio](https://www.makeschool.com/portfolio/andre-williams)
 
+<a href="https://github.com/Andre-Williams22/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia" />
+</a>
+<a href="https://github.com/Andre-Williams22/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=algolia&exclude_repo=github-readme-stats,Andre-Williams22.github.io" />
+</a>
 
-![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=Gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=Gradient&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
+![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=algolia&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
 
