@@ -26,4 +26,4 @@ Here are some ideas to get you started:
   - [Portfolio](https://www.makeschool.com/portfolio/andre-williams)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Andre-Williams22/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22)](https://github.com/Andre-Williams22/github-readme-stats)
