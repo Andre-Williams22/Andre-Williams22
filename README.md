@@ -13,13 +13,11 @@
 <img src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/carmel.png">      
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&hide=contribs,prs) --> 
 
-Here are some ideas to get you started:
-
+About Me:
 - 🔭 I’m currently a cloud engineering intern at Datto
 - 🌱 I’m currently learning data science 
 - ⚡ Fun fact: I love a good movie
 
--->
 # Technical Articles
 - [Decision Trees](https://medium.com/analytics-vidhya/to-tree-or-not-to-tree-that-is-the-decision-90ae1a9114c2)
 - [K-Means Clustering](https://levelup.gitconnected.com/k-means-clustering-analysis-machine-learning-c98ed9f85d8a)
@@ -39,4 +37,4 @@ Give a ⭐️ if this profile a helped you!
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true)
 <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&exclude_repo=github-readme-stats&layout=compact,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&layout=compact&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
