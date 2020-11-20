@@ -16,7 +16,7 @@
 <img alt="" src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/agpr.gif"> </img>
 
 
-# About Me
+# :smiley: About Me
 - 🔭 I’m currently a cloud engineering intern at Datto
 - 🌱 I’m currently learning data science 
 - ⚡ Fun fact: I love a good movie
@@ -27,14 +27,14 @@
 - [Multiple Linear Regression](https://levelup.gitconnected.com/expensive-cheap-housing-prices-predict-prices-boston-housing-dataset-d60987b65c75)
 
 
-## :chart: My Stats
+# :chart: My Stats
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true)
 <br>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
 --> 
-## 📫  Reach Out & Stay Connected:
+# 📫  Reach Out & Stay Connected:
   - [LinkedIn](https://www.linkedin.com/in/andrewilliams22/)
   - [Medium](https://medium.com/@andre_williams)
   - [Portfolio](https://www.makeschool.com/portfolio/andre-williams)
