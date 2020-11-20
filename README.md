@@ -32,13 +32,10 @@ Here are some ideas to get you started:
   - [Medium](https://medium.com/@andre_williams)
   - [Portfolio](https://www.makeschool.com/portfolio/andre-williams)
 
-<a href="https://github.com/Andre-Williams22/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github.com/Andre-Williams22/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=algolia&exclude_repo=github-readme-stats,Andre-Williams22.github.io" />
-</a>
+
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia)
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=algolia&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
 
