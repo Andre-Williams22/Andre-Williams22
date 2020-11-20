@@ -36,5 +36,4 @@ Give a ⭐️ if this profile a helped you!
 
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true)
-<br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&layout=compact&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
