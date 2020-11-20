@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Andre-Williams22&repo=github-readme-stats)](https://github.com/Andre-Williams22/github-readme-stats)
-
 📫  Feel Free to Reach Out:
   - [LinkedIn](https://www.linkedin.com/in/andrewilliams22/)
   - [Medium](https://medium.com/@andre_williams)
@@ -39,7 +37,5 @@ Here are some ideas to get you started:
 
 
 
-![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=algolia&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
+![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true&theme=algolia)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Williams22&theme=algolia&exclude_repo=github-readme-stats,Andre-Williams22.github.io)](https://github.com/Andre-Williams/github-readme-stats)
 
