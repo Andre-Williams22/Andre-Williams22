@@ -14,7 +14,7 @@
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&hide=contribs,prs) --> 
 
 <p align="center", width=300>
-<img alt="" src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/tech.gif"> </img>
+<img alt="" src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/agpr.gif"> </img>
 </p> 
 
 # :smiley: About Me
