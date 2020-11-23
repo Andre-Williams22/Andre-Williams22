@@ -19,7 +19,7 @@
 
 # :smiley: About Me
 - 🔭 I’m currently a cloud engineering intern at Datto
-- 🌱 I’m currently learning data science and deep learning 
+- 🌱 I’m currently learning deep learning 
 - ⚡ Fun fact: I love a good movie
 
 # Technical Articles
