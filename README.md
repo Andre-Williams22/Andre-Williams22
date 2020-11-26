@@ -18,7 +18,7 @@
 </p> 
 
 # :smiley: About Me
-- 🔭 I’m currently a cloud engineering intern at Datto
+- 🔭 I’m currently a cloud engineering infrastructure intern at Datto
 - 🌱 I’m currently learning deep learning 
 - ⚡ Fun fact: I can do a hand stand
 
