@@ -28,7 +28,7 @@
 - [Multiple Linear Regression](https://levelup.gitconnected.com/expensive-cheap-housing-prices-predict-prices-boston-housing-dataset-d60987b65c75)
 
 
-# :chart: My Stats
+# :chart:Andre's Stats
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&show_icons=true)
 <br>
