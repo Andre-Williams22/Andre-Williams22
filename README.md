@@ -1,5 +1,5 @@
 <h1 align="center">Andre Williams</h1>
-<p align="center"><i>Data Scientist | Machine Learning Engineer | Software Engineer</i></p>
+<p align="center"><i>Data Scientist | Machine Learning Engineer </i></p>
 <!--
 <div align="center">
   <a href="https://github.com/elangosundar/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
