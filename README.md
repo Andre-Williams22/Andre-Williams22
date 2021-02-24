@@ -13,12 +13,20 @@
 <img src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/carmel.png">      
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&hide=contribs,prs) --> 
 
-<p align="center", width=300>
-<img alt="" src="https://github.com/Andre-Williams22/Clean-Blog/blob/master/flaskapp/static/images/agpr.gif"> </img>
-</p> 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/andre-williams22/">
+    <img src="https://img.shields.io/badge/Andre_Williams-blue?style=for-the-badge&logo=linkedin&labelColor=005b8e" />
+  </a>
+  <a href="https://medium.com/@andre_williams">
+    <img src="https://img.shields.io/badge/@andre_williams-333333?style=for-the-badge&logo=medium&logoColor=white&labelColor=black" />
+  </a>
+  <a href="https://github.com/andre-williams22" title="is it passé to joke about recursion">
+    <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
+  </a>
+  
+              
 # :smiley: About Me
-- 🔭 I’m currently a cloud engineering intern at Datto Inc.
+- 🔭 I’m currently a machine learning engineer at Boeing.
 - 🌱 I’m a student of deep learning. 
 - ⚡ Fun fact: I can do a hand stand and love reading.
 
