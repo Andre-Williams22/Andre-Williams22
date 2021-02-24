@@ -14,7 +14,7 @@
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre-Williams22&hide=contribs,prs) --> 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andre-williams22/">
+  <a href="https://www.linkedin.com/in/andrewilliams22/">
     <img src="https://img.shields.io/badge/Andre_Williams-blue?style=for-the-badge&logo=linkedin&labelColor=005b8e" />
   </a>
   <a href="https://medium.com/@andre_williams">
