@@ -26,7 +26,7 @@
   
               
 # :smiley: About Me
-- 🔭 I’m currently a machine learning engineer at Boeing.
+- 🔭 I’m currently an autonomy engineer at Aurora Flight Sciences.
 - 🌱 I’m a student of deep learning. 
 - ⚡ Fun fact: I can do a hand stand and love reading.
 
