@@ -25,7 +25,7 @@
   </a>
   
               
-# :smiley: About Me
+# :smiley: More About Me
 - 🔭 I’m currently an autonomy engineer at Aurora Flight Sciences.
 - 🌱 I’m a student of deep learning. 
 - ⚡ Fun fact: I can do a hand stand and love reading.
