@@ -5,9 +5,9 @@
   
               
 # :smiley: More About Me
-- 🔭 I’m currently an autonomy engineer at Aurora Flight Sciences.
+- 🔭 I’m currently a data scientist in silicon valley
 - 🌱 I’m a student of deep learning. 
-- ⚡ Fun fact: I can do a hand stand and love reading.
+- ⚡ Fun fact: I can do a hand stand.
 
 # Technical Articles
 - [Decision Trees](https://medium.com/analytics-vidhya/to-tree-or-not-to-tree-that-is-the-decision-90ae1a9114c2)
