@@ -1,13 +1,13 @@
 <h1 align="center">Andre Williams</h1>
-<p align="center"><i>Data Scientist | Machine Learning Engineer </i></p>
+<p align="center"><i>Data Scientist | Machine Learning Engineer | AI Safety | MLOps </i></p>
 
 <p align="center">
   
               
 # :smiley: More About Me
-- 🔭 I’m currently a data scientist in silicon valley
-- 🌱 I’m a student of deep learning. 
-- ⚡ Fun fact: I can do a hand stand.
+- 🔭 I’m currently a Data Scientist in silicon valley
+- 🌱 I'm currently an Machine Learning Quality Engineer at Apple. 
+- ⚡ Fun fact: I love writing, making complex ideas simple for everyone. 
 
 # Technical Articles
 - [Decision Trees](https://medium.com/analytics-vidhya/to-tree-or-not-to-tree-that-is-the-decision-90ae1a9114c2)
