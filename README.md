@@ -5,9 +5,8 @@
   
               
 # :smiley: More About Me
-- 🔭 I’m currently a Data Scientist in silicon valley
-- 🌱 I'm currently an Machine Learning Quality Engineer at Apple. 
-- ⚡ Fun fact: I love writing, making complex ideas simple for everyone. 
+- 🔭 I’m a Sr. Machine Learning Engineer
+- 🌱 My interests are in: Technical AI Safety and LLM Evals
 
 # Technical Articles
 - [Decision Trees](https://medium.com/analytics-vidhya/to-tree-or-not-to-tree-that-is-the-decision-90ae1a9114c2)
@@ -29,4 +28,4 @@
 
 ## :man_astronaut: Show your support
 
-Give a ⭐️ if this profile a helped you!
+Please give a ⭐️ if this profile helped you!
